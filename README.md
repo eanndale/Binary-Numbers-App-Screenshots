@@ -1,1 +1,1 @@
-# Binary-Numbers-Quiz-App
+# Binary-Numbers-App-Screenshots
